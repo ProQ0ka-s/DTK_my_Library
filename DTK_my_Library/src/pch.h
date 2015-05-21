@@ -23,7 +23,7 @@
 #include <exception>
 #include <memory>
 
-// DirectX Tool Kit Files
+// DirectX Tool Kit files
 #include "CommonStates.h"
 #include "DDSTextureLoader.h"
 #include "DirectXHelpers.h"
@@ -38,6 +38,9 @@
 #include "SpriteFont.h"
 #include "VertexTypes.h"
 #include "WICTextureLoader.h"
+
+// My files
+#include "ScreenManager.h"
 
 namespace DX
 {
